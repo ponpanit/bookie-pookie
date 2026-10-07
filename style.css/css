@@ -1,0 +1,20 @@
+p {
+  font-family: "Mali", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Prompt", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+h1 {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {data-aos="zoom-out"}
